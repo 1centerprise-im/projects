@@ -1,0 +1,6 @@
+[submodule "gcf-readiness-AM-AF"]
+	path = gcf-readiness-AM-AF
+	url = https://github.com/1centerprise-im/gcf-readiness-AM-AF
+[submodule "migration-center"]
+	path = migration-center
+	url = https://github.com/1centerprise-im/migration-center.git
